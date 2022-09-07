@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Lottery system
+A interactive lottery system with smart contracts 
+
+## Tech Stack
+**Client:** React, Bootstrap
+
+**Contract:** Solidity, Web3 
+
+## Screenshots
+<img src="https://user-images.githubusercontent.com/53792139/188887931-7c342b2a-ff8f-441a-a39b-f0b8fd4da186.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/53792139/188888993-74323f2e-224c-40e1-b966-6ea6f4735096.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/53792139/188889140-d3f0cf55-7a4e-4718-82f3-27fa6aeb6074.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/53792139/188890411-58775fb8-5829-481d-b4ad-10a459ced6f4.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/53792139/188889398-161e6f5a-5c91-4431-83ed-cb40d15d74a2.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/53792139/188889526-45dcd281-9809-4d4b-88aa-5e24a6904585.png" width="45%"></img> 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
